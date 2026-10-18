@@ -135,5 +135,5 @@ Segment 6: Northglade Liberated
 ## Video Downloads
 
 All raw clips and the master edit are available here:
-* [Google Drive: Snowmoon Video Segments & Final Cut]()
+* [Google Drive: Snowmoon Video Segments & Final Cut](https://drive.google.com/drive/folders/1I9cE9RSCfxKmnHQQMLo5kez1mP64RMkn)
 
